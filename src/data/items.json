@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Aquaflask",
+        "price": 500,
+        "imgUrl": "/imgs/AquaFlask.png"
+    },
+    {
+        "id": 2,
+        "name": "IPhone",
+        "price": 70000,
+        "imgUrl": "/imgs/IPhone.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Laptop",
+        "price": 32500,
+        "imgUrl": "/imgs/Laptop.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Monitor",
+        "price": 7000,
+        "imgUrl": "/imgs/Monitor.png"
+    },
+    {
+        "id": 5,
+        "name": "Mouse",
+        "price": 600,
+        "imgUrl": "/imgs/Mouse.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Candy",
+        "price": 600,
+        "imgUrl": "/imgs/Candy.jpg"
+    }
+]
